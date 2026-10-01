@@ -1,0 +1,6 @@
+{
+  "name": "Tahir Anthony Welfare Organization",
+  "description": "Tahir Anthony Welfare Organization works for healthcare, medical camps, food assistance, education, vocational development and social welfare in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
